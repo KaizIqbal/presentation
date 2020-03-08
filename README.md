@@ -1,5 +1,5 @@
 # Eggy Review II
-
+[pdf](https://github.com/KaizIqbal/presentation/releases/download/v.0.0.2/Eggy.Review.II.pdf) attached here
 # Useful links
 ### CodeSandBox
 - [Eggy Review II](https://codesandbox.io/s/eggy-review-ii-z5cbh)
